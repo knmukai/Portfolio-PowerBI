@@ -1,8 +1,9 @@
-# Portfolio-PowerBI
+# Dashboards de dados de varejo
 
 ## Descrição
-Repositório projetos PowerBi
+breve descrição dos dados
 
-## Projetos
-### Marketing-Campaign
-Dashboard campanhas de marketing
+
+
+## Projeto Dashboard campanhas de marketing
+detalhamento do que foi feito e o que pode ser extraído dos dashboards
