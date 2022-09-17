@@ -1,6 +1,4 @@
 # dashboard-retail-marketing-customers-analysis
-
-## Descrição
 Dashboard análise de clientes de campanha de marketing de varejo utilizando o PowerBI.
 
 ## Dataset
